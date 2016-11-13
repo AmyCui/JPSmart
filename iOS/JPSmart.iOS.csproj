@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
-    <ProjectGuid>{95FBD98C-C0F8-433D-B1DE-B50FB0979DC1}</ProjectGuid>
+    <ProjectGuid>{689CCC31-9C36-430A-99D6-EADBCC0A3FC3}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
     <RootNamespace>JPSmart.iOS</RootNamespace>
@@ -103,7 +103,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\JPSmart\JPSmart.csproj">
-      <Project>{B92B050B-36AF-4171-B8E0-D5F8DF2DDB1C}</Project>
+      <Project>{E88A4E7F-D8D3-49F6-A317-5A005E9B143B}</Project>
       <Name>JPSmart</Name>
     </ProjectReference>
   </ItemGroup>
