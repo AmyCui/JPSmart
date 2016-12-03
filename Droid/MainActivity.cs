@@ -7,6 +7,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Android.Media;
 
 namespace JPSmart.Droid
 {
@@ -24,5 +25,8 @@ namespace JPSmart.Droid
 
 			LoadApplication(new App());
 		}
+
+
+
 	}
 }
